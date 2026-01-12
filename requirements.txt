@@ -7,4 +7,5 @@ axios==0.21.1
 react==17.0.1
 redux==4.0.5
 jest==26.6.3
-urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
